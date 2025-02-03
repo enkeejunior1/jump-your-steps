@@ -1,11 +1,8 @@
 torch-fidelity
 cache*
 runs*
-weights/*
-wandb/*
-runs-gen_x0-iclr_submission/*
-runs-gen_x0/*
-runs-gen_x0*/*
+weights
+wandb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
