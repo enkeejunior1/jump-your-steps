@@ -1,5 +1,9 @@
 # [ICLR'25] Jump Your Steps: Optimizing Sampling Schedule of Discrete Diffusion Models
 
+<div align="center">
+  <img src="teaser.webp" width="250" alt="Alt text">
+</div>
+
 This repository houses the official PyTorch implementation of the paper titled "Jump Your Steps: Optimizing Sampling Schedule of Discrete Diffusion Models", which is presented at ICLR 2025. 
 
 - [Arxiv](https://arxiv.org/abs/2410.07761)
