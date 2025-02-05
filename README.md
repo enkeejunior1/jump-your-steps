@@ -13,6 +13,8 @@ Contacts:
 
 - Yonghyun Park: enkeejunior1@snu.ac.kr 
 
+> **[Notice]** This repository contains all necessary code to reproduce the experimental results for countdown, CIFAR-10, and text experiments. However, this repository has been archived. For active development and support, please refer to the maintained repository at [JYS](https://github.com/enkeejunior1/jump-your-steps).
+
 ---
 
 # TL;DR
@@ -113,8 +115,6 @@ This project is heavily based on the following codes:
 
 - [CTMC](https://github.com/andrew-cr/tauLDR/tree/main)  
 - [SEDD](https://github.com/louaaron/Score-Entropy-Discrete-Diffusion)
-
-This repo is for archival purposes. The actively maintained repo is [JYS](https://github.com/enkeejunior1/jump-your-steps). If you have any issues or questions during reproduction, I will answer them at [JYS](https://github.com/enkeejunior1/jump-your-steps). 
 
 ---
 
