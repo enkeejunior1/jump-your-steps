@@ -13,7 +13,7 @@ Contacts:
 
 # TL;DR
 
-Jump Your Steps (JYS) is a method for optimizing the sampling schedule of discrete diffusion models. This enables improved sample quality without increasing computational cost during inference. Our method demonstrated performance improvements regardless of the data type (image, piano note, text) or transition kernel (gaussian, uniform, absorb).
+Jump Your Steps (JYS) is a method for optimizing the sampling schedule of discrete diffusion models. This enables improved sample quality **without increasing computational cost during inference**. Our method demonstrated performance improvements regardless of the data type (image, piano note, text) or transition kernel (gaussian, uniform, absorb).
 
 ---
 
@@ -109,3 +109,20 @@ This project is heavily based on the following codes:
 
 - [CTMC](https://github.com/andrew-cr/tauLDR/tree/main)  
 - [SEDD](https://github.com/louaaron/Score-Entropy-Discrete-Diffusion)
+
+This repo is for archival purposes. The actively maintained repo is [JYS](https://github.com/enkeejunior1/jump-your-steps). If you have any issues or questions during reproduction, I will answer them at [JYS](https://github.com/enkeejunior1/jump-your-steps). 
+
+---
+
+# Bibtex
+
+```
+@inproceedings{
+park2025jump,
+title={Jump Your Steps: Optimizing Sampling Schedule of Discrete Diffusion Models},
+author={Yong-Hyun Park and Chieh-Hsin Lai and Satoshi Hayakawa and Yuhta Takida and Yuki Mitsufuji},
+booktitle={The Thirteenth International Conference on Learning Representations},
+year={2025},
+url={https://openreview.net/forum?id=pD6TiCpyDR}
+}
+```
